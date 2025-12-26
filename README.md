@@ -3,19 +3,19 @@ Data Analyst| Financial Analyst | Data Scientist
 
 ### 👨‍💻 Machine learning Projects:
 
-Predicting medical Insurance Cost/premium: Developed a regression model to predict medical premium.
+A) Predicting medical Insurance Cost/premium: Developed a regression model to predict medical premium.
 
-Finding ways on how medical Insurance can quickly and efficiently apply  dreaded disease benefits to their customers. Apply XGboosting,  Random Forest and IDA machine learning models to solve the classification problem.
+B) Finding ways on how medical Insurance can quickly and efficiently apply  dreaded disease benefits to their customers. Apply XGboosting,  Random Forest and IDA machine learning models to solve the classification problem.
 
-Sentimental Analysis of medical customer on Hello Peter. Analysing sentimental analysis using NLTK analyser, Topic Modelling to find the topics that clients are talking about, and Word Cloud visualise the topics based on the customer sentiments.
+C) Sentimental Analysis of medical customer on Hello Peter. Analysing sentimental analysis using NLTK analyser, Topic Modelling to find the topics that clients are talking about, and Word Cloud visualise the topics based on the customer sentiments.
 
 ### 👨‍💻 Neural Networks Projects:
 
-Natural language Processing (LSTM): Create a BOT that will guess the Author of the book based on the writing style.
+A) Natural language Processing (LSTM): Create a BOT that will guess the Author of the book based on the writing style.
 
-Logistic Regression: Built a model that predicted whether any of the book from the Bookstore will be a Bestseller.
+B) Logistic Regression: Built a model that predicted whether any of the book from the Bookstore will be a Bestseller.
 
-Convolutional Neural Network: Built an image recognition model that accurately detect the fruit type.
+C) Convolutional Neural Network: Built an image recognition model that accurately detect the fruit type.
 
 ### 👨‍💻 Research based Project: Combining financial analysis and machine learning for stock trading.
 
