@@ -3,7 +3,7 @@ Data Analyst| Financial Analyst | Data Scientist
 
 ### 👨‍💻 Machine learning Projects:
 
-A) Predicting medical Insurance Cost/premium: Developed a regression model to predict medical premium.
+A) Predicting medical Insurance Cost/premium: Developed a liner regression model to predict medical premium.
 
 B) Finding ways on how medical Insurance can quickly and efficiently apply  dreaded disease benefits to their customers. Apply XGboosting,  Random Forest and IDA machine learning models to solve the classification problem.
 
