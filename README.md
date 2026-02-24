@@ -1,6 +1,8 @@
 ### Hi, I'm Liberty Marshall!
 Data Analyst| Financial Analyst | Data Scientist 
 
+## Below are highlights of the projects that I have done/created.
+
 ### 👨‍💻 Machine learning Projects:
 
 A) Predicting medical Insurance Cost/premium: Developed a liner regression model to predict medical premium.
